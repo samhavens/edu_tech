@@ -8,3 +8,6 @@ _A place for me to gather cool education tech links I find_
 * [A full-stack approach to education] (http://a16z.com/2015/03/13/a16z-podcast-a-full-stack-approach-to-education/)
 Despite the name, this is pretty amazing.
 "Personalized learning — customized to different student’s interests and levels — has long been an elusive goal of education. Now, however, technology-enabled approaches like AltSchool’s make personalized learning possible at a whole new scale. Yet education has changed very little, fundamentally, in decades. Can a ‘full-stack‘ approach really change things? This episode of the a16z Podcast with AltSchool founder and CEO Max Ventilla and a16z General Partner Lars Dalgaard addresses some of the common myths and misconceptions around tech and education — and shares their hopes for a better platform to engage teachers, students, parents, and entire communities. And not just in San Francisco."
+
+* [Learn SQL on Khan Academy] (https://www.khanacademy.org/computing/computer-programming/sql)
+Just what it sounds like.
