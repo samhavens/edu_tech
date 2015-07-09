@@ -11,3 +11,6 @@ Despite the name, this is pretty amazing.
 
 * [Learn SQL on Khan Academy] (https://www.khanacademy.org/computing/computer-programming/sql)
 Just what it sounds like.
+
+* [Discipline Solutions] (http://www.motherjones.com/politics/2015/05/schools-behavior-discipline-collaborative-proactive-solutions-ross-greene)
+More edu than tech, but very interesting. A different way of addressing behavior.
