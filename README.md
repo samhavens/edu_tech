@@ -15,7 +15,7 @@ Just what it sounds like.
 * [Discipline Solutions] (http://www.motherjones.com/politics/2015/05/schools-behavior-discipline-collaborative-proactive-solutions-ross-greene)
 More edu than tech, but very interesting. A different way of addressing behavior.
 
-*[Exploring Potential for Machine Learning on Dataset about K-12
+* [Exploring Potential for Machine Learning on Dataset about K-12
 Teacher Professional Development] (http://cs229.stanford.edu/proj2013/HamiltonPlattner-ExploringPotentialforMachineLearningonDatasetaboutk12TeacherProfessionalDevelopment.pdf) 
 "Evaluation of k-12 teachers in the United States involves
 intense political and philosophical debates.
