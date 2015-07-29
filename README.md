@@ -29,3 +29,9 @@ training, and institutional support that predict
 teachers’ improvement. But first we mustdetermine
 the viability of currently available data for
 predicting teachers’ ratings."
+
+* [A Visual Introduction to Machine Learning] (http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) More tech than edu; this stands out because the visualization in out of this world and to me it feels like a new type of lesson.
+
+* [The Rise of Open Curriculum] (https://medium.com/bright/the-rise-of-open-curriculum-68959f08380d)  "What do personal computers, cell phones, and digital cameras have in common? They all started on the fringes. Then they hit a tipping point and, suddenly, they were everywhere.
+
+This past year, I believe “open curriculum” - or curriculum that is free and adaptable - hit a similar tipping point in K-12 education. For the first time, more school districts chose an open curriculum over work developed by traditional publishers, like Pearson."
