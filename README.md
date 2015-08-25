@@ -35,3 +35,5 @@ predicting teachers’ ratings."
 * [The Rise of Open Curriculum] (https://medium.com/bright/the-rise-of-open-curriculum-68959f08380d)  "What do personal computers, cell phones, and digital cameras have in common? They all started on the fringes. Then they hit a tipping point and, suddenly, they were everywhere. This past year, I believe “open curriculum” - or curriculum that is free and adaptable - hit a similar tipping point in K-12 education. For the first time, more school districts chose an open curriculum over work developed by traditional publishers, like Pearson."
  
 * [Versal] (https://versal.com/) Create interactive online lessons
+
+* [As Coursera Evolves, Colleges Stay On and Investors Buy In] (http://chronicle.com/blogs/wiredcampus/as-coursera-evolves-colleges-stay-on-and-investors-buy-in/57267)
