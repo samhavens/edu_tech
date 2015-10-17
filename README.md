@@ -37,3 +37,5 @@ predicting teachers’ ratings."
 * [Versal] (https://versal.com/) Create interactive online lessons
 
 * [As Coursera Evolves, Colleges Stay On and Investors Buy In] (http://chronicle.com/blogs/wiredcampus/as-coursera-evolves-colleges-stay-on-and-investors-buy-in/57267)
+
+* [Putting Away the Books to Learn] (https://medium.com/bright/putting-away-the-books-to-learn-77c56d28a7ea) Maker spaces in education - it's currently just for the privileged. Can it expand?
