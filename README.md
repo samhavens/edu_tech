@@ -41,3 +41,7 @@ predicting teachers’ ratings."
 * [Putting Away the Books to Learn] (https://medium.com/bright/putting-away-the-books-to-learn-77c56d28a7ea) Maker spaces in education - it's currently just for the privileged. Can it expand?
 
 * [Rx Video Game?] (http://www.bloomberg.com/news/articles/2015-10-22/project-evo-the-first-prescription-strength-video-game-) A video game created by a neurologist to treat ADHD... but will ADHD kids play video games? haha 
+
+* [Why Virtual Classes Can Be Better than Real Ones] (http://nautil.us/issue/29/scaling/why-virtual-classes-can-be-better-than-real-ones)
+
+* [Probability & Statistics Apps] (http://www.math.uah.edu/stat/apps/index.html) A collection of apps for visualising probability and statistics concepts and experiments, from [this site] (http://www.math.uah.edu/stat/).
