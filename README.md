@@ -47,3 +47,5 @@ predicting teachers’ ratings."
 * [Why Virtual Classes Can Be Better than Real Ones] (http://nautil.us/issue/29/scaling/why-virtual-classes-can-be-better-than-real-ones)
 
 * [Probability & Statistics Apps] (http://www.math.uah.edu/stat/apps/index.html) A collection of apps for visualising probability and statistics concepts and experiments, from [this site] (http://www.math.uah.edu/stat/).
+
+* [The Industries of the Future](http://www.amazon.com/The-Industries-Future-Alec-Ross/dp/1476753652) "Leading innovation expert Alec Ross explains what’s next for the world: the advances and stumbling blocks that will emerge in the next ten years, and how we can navigate them." I learned about this from a great a16z, [Open vs. Closed, Alpha Cities, and the Industries of the Future](http://a16z.com/2016/02/19/industries-of-the-future/).
