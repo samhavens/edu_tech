@@ -1,7 +1,5 @@
 # Edu/Tech
 
-### Something of a blog, where I gather articles related to the intersection of education and technology
-
 * [Predicting success based on programming styles](https://ed.stanford.edu/news/stanford-study-shows-success-different-learning-styles-computer-science-class)
 "After conducting automated analyses of what students do from moment to moment as they learn to write computer programs, Stanford University researchers were able to predict — with surprising accuracy — the students’ final grades. What makes the feat more remarkable is that the projections were based on learning patterns identified from the students’ work early in the course."
 
