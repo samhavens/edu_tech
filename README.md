@@ -40,7 +40,7 @@ predicting teachers’ ratings."
 
 * [Putting Away the Books to Learn] (https://medium.com/bright/putting-away-the-books-to-learn-77c56d28a7ea) Maker spaces in education - it's currently just for the privileged. Can it expand?
 
-* [anothe maker space article] (http://mobile.nytimes.com/2016/02/07/education/edlife/forward-tinkering-colleges-make-room-for-maker-spaces.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0&referer=https://news.ycombinator.com/)
+* [Another maker space article] (http://mobile.nytimes.com/2016/02/07/education/edlife/forward-tinkering-colleges-make-room-for-maker-spaces.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0&referer=https://news.ycombinator.com/)
 
 * [Rx Video Game?] (http://www.bloomberg.com/news/articles/2015-10-22/project-evo-the-first-prescription-strength-video-game-) A video game created by a neurologist to treat ADHD... but will ADHD kids play video games? haha 
 
