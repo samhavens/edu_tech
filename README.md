@@ -1,6 +1,6 @@
 # Edu/Tech
 
-* [Predicting success based on programming styles](https://ed.stanford.edu/news/stanford-study-shows-success-different-learning-styles-computer-science-class)
+### [Predicting success based on programming styles](https://ed.stanford.edu/news/stanford-study-shows-success-different-learning-styles-computer-science-class)
 "After conducting automated analyses of what students do from moment to moment as they learn to write computer programs, Stanford University researchers were able to predict — with surprising accuracy — the students’ final grades. What makes the feat more remarkable is that the projections were based on learning patterns identified from the students’ work early in the course."
 
 * [A full-stack approach to education](http://a16z.com/2015/03/13/a16z-podcast-a-full-stack-approach-to-education/)
